@@ -3,13 +3,13 @@
 This is a simple tic-tac-toe game built with React that can be played in your favorite browser.
 
 ## Features
-1.A tic-tac-toe board with clickable tiles.
+1. A tic-tac-toe board with clickable tiles.
 
-2.Each tiles automatically show an 'X' or an 'O' according to the player who clicked.
+2. Each tiles automatically show an 'X' or an 'O' according to the player who clicked.
 
-3.A clickable and numbered history of each moves allowing a player to go back to a previous turn.
+3. A clickable and numbered history of each moves allowing a player to go back to a previous turn.
 
-2.A contextual prompt indicating whose turn it is and if a player wins the game.
+4. A contextual prompt indicating whose turn it is and if a player wins the game.
 
 ## Information
 Node is required to run this application.
