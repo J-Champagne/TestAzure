@@ -15,7 +15,7 @@ This is a simple tic-tac-toe game built with React that can be played in your fa
 
 ## Information
 Node is required to run this application.
-Simply type `npm start` from root. A browser window should open to localhost
-and the game will be playable.
+Simply type `npm install` followed by `npm start` in the root folder. 
+A browser window should open to localhost and the game will be playable.
 
 This game was made by following a tutorial offered by the official website of React. https://reactjs.org/tutorial/tutorial.html 
