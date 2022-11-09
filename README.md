@@ -2,6 +2,8 @@
 ## Introduction
 This is a simple tic-tac-toe game built with React that can be played in your favorite browser.
 
+![](Image.png)
+
 ## Features
 1. A tic-tac-toe board with clickable tiles.
 
